@@ -70,7 +70,7 @@ npm run preview
 ```
 
 6️⃣ 📸 Preview
-<img src="./assets/Screenshots/Screenshot 2026-02-21 200406.png" width="100%" />
+<img src="./src/assets/Screenshots/Screenshot 2026-02-21 200406.png" width="100%" />
 
 <p align="center">
   <img src="./assets/Screenshots/Screenshot 2026-02-21 200445.png" width="45%" />
