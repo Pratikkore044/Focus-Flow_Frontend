@@ -1,12 +1,65 @@
-# React + Vite
+# FocusFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 1️⃣ About FocusFlow
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+FocusFlow is a modern productivity and task management application designed to help users eliminate distractions and maintain deep focus.
+It integrates structured focus sessions, task tracking, into a clean, minimal interface.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 2️⃣ Technologies Used
+
+**Frontend**
+* React.js
+* Vite
+* Tailwind CSS
+* React Hooks (useState, useEffect, Context API)
+
+---
+
+## 3️⃣ Features
+
+* 🔐 User Authentication (Login / Signup)
+* ✅ Create, Update, Delete Tasks
+* 📊 Productivity Dashboard
+* 📱 Fully Responsive UI
+* 🎯 Clean & Minimal UX
+
+**User Authentication**
+* Register or log in securely.
+
+**Task Management**
+* Add tasks with priority and deadlines.
+* Update or delete tasks anytime.
+* Track session completion.
+* View completed tasks.
+
+---
+
+## 5️⃣ Running the Project Locally
+
+**Step 1: Clone the Repository**
+```bash
+git clone [https://github.com/Pratik044/focusflow.git](https://github.com/Pratik044/focusflow.git)
+cd focusflow
+
+Step 2: Install Dependencies
+npm install
+
+Step 3: Start Development Server
+npm run dev
+
+App will run at:
+http://localhost:5173
+
+🚀 Production Build
+npm run build
+
+Preview Production:
+npm run preview
+
+
+6️⃣ 
+
