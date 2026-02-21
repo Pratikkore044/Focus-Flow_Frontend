@@ -73,12 +73,12 @@ npm run preview
 <img src="./src/assets/Screenshots/Screenshot 2026-02-21 200406.png" width="100%" />
 
 <p align="center">
-  <img src="./assets/Screenshots/Screenshot 2026-02-21 200445.png" width="45%" />
-  <img src="./assets/Screenshots/Screenshot 2026-02-21 200508.png" width="45%" />
+  <img src="./src/assets/Screenshots/Screenshot 2026-02-21 200445.png" width="45%" />
+  <img src="./src/assets/Screenshots/Screenshot 2026-02-21 200508.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./assets/Screenshots/Screenshot 2026-02-21 200539.png" width="45%" />
-  <img src="./assets/Screenshots/Screenshot 2026-02-21 200646.png" width="45%" />
+  <img src="./src/assets/Screenshots/Screenshot 2026-02-21 200539.png" width="45%" />
+  <img src="./src/assets/Screenshots/Screenshot 2026-02-21 200646.png" width="45%" />
 </p>
 
