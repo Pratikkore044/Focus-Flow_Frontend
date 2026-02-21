@@ -46,26 +46,20 @@ git clone [https://github.com/Pratik044/focusflow.git](https://github.com/Pratik
 cd focusflow
 
 Step 2: Install Dependencies
-
-Bash
 npm install
+
 Step 3: Start Development Server
-
-Bash
 npm run dev
-App will run at:
 
+App will run at:
 http://localhost:5173
 
 🚀 Production Build
-
-Bash
 npm run build
-Preview Production:
 
-Bash
+Preview Production:
 npm run preview
-6️⃣ Preview
-📸 Screenshots
-Add screenshots inside a /screenshots folder.
+
+
+6️⃣ 
 
